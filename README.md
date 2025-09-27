@@ -45,8 +45,8 @@ npm run dev
 ```
 APIs (no keys)
 
--- Geocoding: https://geocoding-api.open-meteo.com/v1/search?name=Boston&count=5
--- Forecast: https://api.open-meteo.com/v1/forecast?latitude=..&longitude=..&current_weather=true&hourly=temperature_2m&daily=temperature_2m_max,temperature_2m_min&timezone=auto
--- Air Quality: https://api.openaq.org/v2/latest?coordinates=lat,lon&radius=15000&limit=50
+- Geocoding: `https://geocoding-api.open-meteo.com/v1/search?name=Boston&count=5`
+- Forecast: `https://api.open-meteo.com/v1/forecast?latitude=..&longitude=..&current_weather=true&hourly=temperature_2m&daily=temperature_2m_max,temperature_2m_min&timezone=auto`
+- Air Quality: `https://api.openaq.org/v2/latest?coordinates=lat,lon&radius=15000&limit=50`
 
 (Notes): OpenAQ may return no stations for some cities—try a larger radius or a nearby city.
