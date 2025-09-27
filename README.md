@@ -24,6 +24,11 @@ _End-to-end, keyless dashboard for current weather, 5-day outlook, 24h temps, an
   </a>
 </p>
 
+<!-- Screenshot -->
+<p align="center">
+  <img src="docs/dashboard.png" alt="Weather + AQI Dashboard UI Screenshot" width="900">
+</p>
+
 ---
 
 ## Features
@@ -38,15 +43,3 @@ _End-to-end, keyless dashboard for current weather, 5-day outlook, 24h temps, an
 npm install
 npm run dev
 ```
-Build & Preview
-```bash
-npm run build
-npm run preview
-```
-APIs (no keys)
-
-- Geocoding: `https://geocoding-api.open-meteo.com/v1/search?name=Boston&count=5`
-- Forecast: `https://api.open-meteo.com/v1/forecast?latitude=..&longitude=..&current_weather=true&hourly=temperature_2m&daily=temperature_2m_max,temperature_2m_min&timezone=auto`
-- Air Quality: `https://api.openaq.org/v2/latest?coordinates=lat,lon&radius=15000&limit=50`
-
-(Notes): OpenAQ may return no stations for some cities—try a larger radius or a nearby city.
