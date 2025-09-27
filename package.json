@@ -1,0 +1,24 @@
+{
+  "name": "weather-aqi",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "recharts": "^3.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.3",
+    "gh-pages": "^6.3.0",
+    "vite": "^7.1.7"
+  }
+  
+}
