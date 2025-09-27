@@ -24,8 +24,6 @@ _End-to-end, keyless dashboard for current weather, 5-day outlook, 24h temps, an
   </a>
 </p>
 
-**Live:** `https://<your-username>.github.io/<repo-name>/`
-
 ---
 
 ## Features
