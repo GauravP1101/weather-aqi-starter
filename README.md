@@ -33,11 +33,11 @@ _End-to-end, fully client-side dashboard delivering real-time weather data, 5-da
 
 ## Features
 
--🌎 City search (Open-Meteo Geocoding)
--🌤️ Current weather + 5-day highs/lows
--📈 Next-24h temperature line chart (Recharts)
--🏭 Nearby air-quality averages: PM2.5, PM10, CO, NO₂, SO₂, O₃ (OpenAQ)
--💾 LocalStorage caching - 🌓 Responsive dark UI - 🔓 No API keys
+◦ 🌎 City search (Open-Meteo Geocoding)
+◦ 🌤️ Current weather + 5-day highs/lows
+◦ 📈 Next-24h temperature line chart (Recharts)
+◦ 🏭 Nearby air-quality averages: PM2.5, PM10, CO, NO₂, SO₂, O₃ (OpenAQ)
+◦ 💾 LocalStorage caching - 🌓 Responsive dark UI - 🔓 No API keys
 
 ## Quick Start
 ```bash
