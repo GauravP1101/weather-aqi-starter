@@ -1,6 +1,6 @@
 # Weather + AQI Dashboard
 
-_End-to-end, keyless dashboard for current weather, 5-day outlook, 24h temps, and nearby air quality._
+_End-to-end, fully client-side dashboard delivering real-time weather data, 5-day forecasts, interactive 24-hour temperature visualizations, and nearby air quality analytics (PM2.5, PM10, CO, NO₂, SO₂, O₃)—no API keys required._
 
 <!-- Tech badges -->
 <p>
